@@ -1,3 +1,3 @@
 # README
 
-Hier zal ik belangrijke informatie plaatsen over mijn GitHub pagina.
+Hier zal ik belangrijke informatie plaatsen over deze GitHub repository.
