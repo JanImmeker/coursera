@@ -5,3 +5,4 @@ Deze GitHub pagina zal ik met name gaan gebruiken voor mijn Front-end developmen
 
 <p><a href="https://immeker.com/">Visit Immeker.com!</a></p>
 <p><a href="https://immeker.com/jsfiddle/">JSFiddle post</a></p>
+<p><a href="https://stackoverflow.com/story/janimmeker/">Stack Overflow</a></p>
